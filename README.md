@@ -84,7 +84,7 @@ I approach AI systems as **engineering products**, not demos:
 ### Connect
 
 - GitHub: https://github.com/ashish099003  
-- LinkedIn: *(add your LinkedIn URL here)*
+- LinkedIn: https://www.linkedin.com/in/ashish2502/
 
 ---
 
