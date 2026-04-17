@@ -1,6 +1,6 @@
 ## Hi, I’m Ashish Sinha
 
-AI / Machine Learning Engineer with a strong background in building **production-grade ML systems**, **agentic AI workflows**, and **data-intensive platforms**.  
+AI / Machine Learning enthusiast with a strong background in building **production-grade ML systems**, **agentic AI workflows**, and **data-intensive platforms**.  
 My work focuses on taking AI from **experimentation to reliable, scalable systems**.
 
 I have hands-on experience across **ML modeling, LLM systems, RAG pipelines, multi-agent architectures**, and **engineering-heavy AI workflows** used in real-world environments.
